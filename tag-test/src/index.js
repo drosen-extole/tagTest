@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import TagManager from 'react-gtm-module'
 
 const tagManagerArgs = {
-  gtmId: 'GTM-XXXXXX'
+  gtmId: 'GTM-MTPFSPM'
 }
 TagManager.initialize(tagManagerArgs)
 const root = ReactDOM.createRoot(document.getElementById('root'));
